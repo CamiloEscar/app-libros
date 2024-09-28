@@ -39,7 +39,7 @@
           Close
         </button>
         <a 
-          :href="book.link" 
+          :href="pdfUrl"
           target="_blank" 
           class="bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded"
         >
@@ -51,7 +51,7 @@
 </template>
 
 <script setup>
-import { ref, onMounted, onUnmounted } from 'vue';
+import { ref, onMounted, onUnmounted, computed } from 'vue';
 import * as pdfjsLib from 'pdfjs-dist';
 
 pdfjsLib.GlobalWorkerOptions.workerSrc = `https://cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjsLib.version}/pdf.worker.min.js`;
@@ -69,24 +69,28 @@ const error = ref(null);
 const pdfText = ref('');
 const pdfRendered = ref(false);
 
+const pdfUrl = computed(() => {
+  return props.book.link.startsWith('http') 
+    ? props.book.link 
+    : `${window.location.origin}${props.book.link}`;
+});
+
 const formatDate = (dateString) => {
   if (!dateString) return 'N/A';
   const options = { year: 'numeric', month: 'long', day: 'numeric' };
   return new Date(dateString).toLocaleDateString('es-ES', options);
 };
 
-const renderPdf = async (url) => {
-  console.log('Attempting to render PDF:', url);
-  if (!url) {
+const renderPdf = async () => {
+  console.log('Attempting to render PDF:', pdfUrl.value);
+  if (!pdfUrl.value) {
     error.value = 'No PDF URL provided';
     loading.value = false;
     return;
   }
 
   try {
-    // If the URL is relative, prepend the base URL
-    const fullUrl = url.startsWith('http') ? url : `${window.location.origin}${url}`;
-    const loadingTask = pdfjsLib.getDocument(fullUrl);
+    const loadingTask = pdfjsLib.getDocument(pdfUrl.value);
     const pdf = await loadingTask.promise;
     console.log('PDF loaded successfully');
     
@@ -130,7 +134,7 @@ onMounted(() => {
   console.log('BookPreview component mounted');
   renderTimeout = setTimeout(() => {
     console.log('Initiating PDF render');
-    renderPdf(props.book.link);
+    renderPdf();
   }, 100);
 });
 
