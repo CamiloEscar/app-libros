@@ -1,0 +1,309 @@
+,
+Guía tutorial the Road to React 2023
+https://media.licdn.com/dms/document/media/D561FAQHZcRAo262EgQ/feedshare-document-pdf-analyzed/0/1726890961338?e=1728518400&v=beta&t=B1NDfENFJ9FJ-74VKFIjZmTRbN3AKRajL_65Q5HK0YY
+
+Guía de programación Python Ibnul Jaif Farabi
+https://media.licdn.com/dms/document/media/D561FAQF2dKnhddFtSQ/feedshare-document-pdf-analyzed/0/1726885704109?e=1728518400&v=beta&t=NQEgtIiG81AoCwdMcmZ9hSqLgJuUtKEXoZ7IwAhNI24
+
+El libro blanco de Inteligencia Artificial Generativa
+https://media.licdn.com/dms/document/media/D4E1FAQFknmhXHZNJ_Q/feedshare-document-pdf-analyzed/0/1726877196683?e=1728518400&v=beta&t=jValw6W1owBny399E2KGZP_2byDzU20Mw-p08XR3rVI
+
+Libro. El Gran Ajedrez para Pequeños Ajedrecistas
+https://media.licdn.com/dms/document/media/D4E1FAQEtT_jthjYkKA/feedshare-document-pdf-analyzed/0/1726806784385?e=1728518400&v=beta&t=0kuzKuN6IjCmP8zXKmAnyBuT7IskU1q4z70ZxtiOIyA
+
+Guía del protocolo SMTP Penetration Testing
+https://media.licdn.com/dms/document/media/D561FAQFuiggcg37lQw/feedshare-document-pdf-analyzed/0/1726850669416?e=1728518400&v=beta&t=_dv3orL5DkgJAMMCT_gBOSqTT1m-Hsy0oag_SAny3Ps
+
+Guía de notas de Matlab para profesionales
+https://media.licdn.com/dms/document/media/D4E1FAQGbI6JtFZqyNA/feedshare-document-pdf-analyzed/0/1726869111770?e=1728518400&v=beta&t=rLZv0IbtepJAzisCGXGojrcqY5hh4E8LOiXAu02-ErI
+
+Guía de Red Hat Enterprise Linux 9, Configuración de redes seguras.
+https://media.licdn.com/dms/document/media/D4D1FAQGzFGX6MKwHHQ/feedshare-document-pdf-analyzed/0/1726849828383?e=1728518400&v=beta&t=LAi0-TJlrqOLMkT44uoZ9Lv5t5Nii5M269NcFtq3o0c
+
+Guía tutorial completa DevOps en español
+https://media.licdn.com/dms/document/media/D4E1FAQG1naIHvvDgyg/feedshare-document-pdf-analyzed/0/1726860501726?e=1728518400&v=beta&t=2LAZ1ldN46Vq3bp7YAGUfl4L68EDd_0_BAW54lxG0fE
+
+Guía para el uso de la IA Generativa en la Educación e Investigación
+https://media.licdn.com/dms/document/media/D4E1FAQHv1iKcmPB8Pg/feedshare-document-pdf-analyzed/0/1726852566674?e=1728518400&v=beta&t=ynQQ6VOKtPfiuUoVRjbKhG0lSnMMBbeYn8GC2U5jMA0
+
+Guía de conceptos esenciales de Redes
+https://media.licdn.com/dms/document/media/D4D1FAQFIPZk2dtjmWw/feedshare-document-pdf-analyzed/0/1710867084291?e=1728518400&v=beta&t=bS77465wmalFHDGyycrqDw2_7La_9D8q2wIqSjdtPFE
+
+Guía tutorial de Magento en español
+https://media.licdn.com/dms/document/media/D4E1FAQENi0dHh8PMhg/feedshare-document-pdf-analyzed/0/1726849514984?e=1728518400&v=beta&t=8eHcyaixwreb7NKZlHCin7PT6uF6euBA62K2T-R8YKU
+
+Guía de TCP/IP Subnetting
+https://media.licdn.com/dms/document/media/D4D1FAQFOlmdalqbWXg/feedshare-document-pdf-analyzed/0/1721384325252?e=1728518400&v=beta&t=5brmtzRXl3l4nVELjEQtQNqL5kdrHxm5olOVIO4ni_s
+
+Guía tutorial de PyGame en español
+https://media.licdn.com/dms/document/media/D4E1FAQFv_5z5gaIrtw/feedshare-document-pdf-analyzed/0/1726848658739?e=1728518400&v=beta&t=GV9wHPeZrGbUXwfipTjfPrdfGTECbHiU4hwU61v0fSs
+
+Guía de Introducción a la Tecnología de la Inteligencia Artificial
+https://media.licdn.com/dms/document/media/D561FAQG_QF-NCaHkWw/feedshare-document-pdf-analyzed/0/1726211603768?e=1728518400&v=beta&t=0a9ywzI50PPA5aucQi0-1gvJev8yTKxPuPLu92Zsj9Y
+
+Guía de nuevas características de React 19
+https://media.licdn.com/dms/document/media/D4D1FAQEwjEfVt72sDQ/feedshare-document-pdf-analyzed/0/1726826567324?e=1728518400&v=beta&t=4IxhgTkm6UOVr90jalqJGJrLfMkPDJDYvWarG6XP0gI
+
+Guía de Orientación para la IA generativa en la educación y la investigación
+https://media.licdn.com/dms/document/media/D4D1FAQFvwZQRjbbt2w/feedshare-document-pdf-analyzed/0/1726840602885?e=1728518400&v=beta&t=aWOsWtZH2lmg3etCAp62Q4x2jRvaUqxPy7o05FcTXAE
+
+Guía handbook de comandos Linux
+https://media.licdn.com/dms/document/media/D561FAQGQUdWvCC-uWw/feedshare-document-pdf-analyzed/0/1726834402512?e=1728518400&v=beta&t=eNeXNk14YuLsZidhWQfUCfJtNLGV1l4OuBIjAzYPZrY
+
+Guía tutorial de Selenium en español
+https://media.licdn.com/dms/document/media/D4E1FAQF7CWeD5zFMEA/feedshare-document-pdf-analyzed/0/1726845781280?e=1728518400&v=beta&t=KW-uEptHbNgLbcNaAY0A-2fR9AtqZA3U10GVp21vq1c
+
+Guía Interpretando el rol del Coach Ágil en español
+https://media.licdn.com/dms/document/media/D4E1FAQF58LSd9ZMUaQ/feedshare-document-pdf-analyzed/0/1726845467024?e=1728518400&v=beta&t=l3JFmJwQ1QowltjxEcnOkf1knsEROolWGthRWKUTGE4
+
+Guía tutorial de RUST en español
+https://media.licdn.com/dms/document/media/D4E1FAQGs5QtOT1ODdg/feedshare-document-pdf-analyzed/0/1726842555474?e=1728518400&v=beta&t=JdcxNjhSPXRsxhwOWRWtVj5rDVTurGzua-fztIR5YXU
+
+Guía de notas de .NET Framework para profesionales
+https://media.licdn.com/dms/document/media/D4E1FAQEqHfgO1HIgRQ/feedshare-document-pdf-analyzed/0/1726840875484?e=1728518400&v=beta&t=rK7iTGjIWIjCWxU271GxsM2WCDZ6uoVPaXvhVQPwmaA
+
+Guía de introducción a Power BI
+https://media.licdn.com/dms/document/media/D4E1FAQFB3zwKuPV6Kw/feedshare-document-pdf-analyzed/0/1726808870852?e=1728518400&v=beta&t=LYIVgLpt-yzQSpun0qUllXczNAkacEGsBGMbdja25oo
+
+Guía básica de Data Cleaning
+https://media.licdn.com/dms/document/media/D561FAQElNSFbT6V0Gg/feedshare-document-pdf-analyzed/0/1726822263435?e=1728518400&v=beta&t=uwRFN8LphYbdbpRvx9W769pj5HtfNXTWpKywQuR3kO4
+
+Guía de notas de Spring Framework para profesionales
+https://media.licdn.com/dms/document/media/D4E1FAQGzoOYhn8gLAw/feedshare-document-pdf-analyzed/0/1726839874977?e=1728518400&v=beta&t=RWYMn-2ATqzjWkdDqOGz-sDHiXsUhYA-INohFpryq5A
+
+Guía tutorial del Rol Product Owner de Scrum 2024 en español
+https://media.licdn.com/dms/document/media/D4E1FAQHbkcW7nOEs6g/feedshare-document-pdf-analyzed/0/1726839181565?e=1728518400&v=beta&t=SOOYz5fvlDBiwkvFfAKY9EnjJ9Xc4zhQfvqblUsF9bY
+
+Guía tutorial de lenguaje Swift en español
+https://media.licdn.com/dms/document/media/D4E1FAQEsVoakXcJjSg/feedshare-document-pdf-analyzed/0/1726837913275?e=1728518400&v=beta&t=HGMuLIvcdJ-kIjWafpzlo6F49LXlh_0uKryfuQZVdtg
+
+Guía de Python Machine Learning
+https://media.licdn.com/dms/document/media/D561FAQF0IpW2uNcizQ/feedshare-document-pdf-analyzed/0/1726823879995?e=1728518400&v=beta&t=5sgYKlkzDYf1wnb3yfUZQ5FH8cnjlVfbu-tfYe0R3ME
+
+Guía de Ethical Hacking con Python 2024
+https://media.licdn.com/dms/document/media/D4D1FAQECAmt4J-k_Zw/feedshare-document-pdf-analyzed/0/1726825516199?e=1728518400&v=beta&t=g56Swm2ZPCVv8fAuQrjUGSTWBAWKOE45YM1yCdezPWY
+
+Guía handbook de Laravel
+https://media.licdn.com/dms/document/media/D4E1FAQEnpAupDUCHlQ/feedshare-document-pdf-analyzed/0/1726835790576?e=1728518400&v=beta&t=woHRnrJmiJhfVHTnErme-j6VlAZEcb4X4NN1nrk4cnc
+
+Guía tutorial de Flask en español
+https://media.licdn.com/dms/document/media/D4E1FAQHIR1TT1GDBRw/feedshare-document-pdf-analyzed/0/1726835519397?e=1728518400&v=beta&t=OdQgbo--FwSs-15yXzOpO4mnIA3TnTNnQJB6X9nzqL8
+
+Guía tutorial de Tensorflow en español
+https://media.licdn.com/dms/document/media/D4E1FAQG9g2013n-ICg/feedshare-document-pdf-analyzed/0/1726835275017?e=1728518400&v=beta&t=1MnsBceDsJqRIlH1CY-ab90lmgMZZGcc-7CHPztB5p0
+
+Guía handbook de Next.Js
+https://media.licdn.com/dms/document/media/D4E1FAQGce2VenN82uQ/feedshare-document-pdf-analyzed/0/1726789085577?e=1728518400&v=beta&t=37KSfh526IOLd_pN_W9dAZI75eYrf86viSx5zjk9qhw
+
+Guía de notas de PowerShell para profesionales
+https://media.licdn.com/dms/document/media/D4E1FAQE_82E75BMGIg/feedshare-document-pdf-analyzed/0/1726774254856?e=1728518400&v=beta&t=NvmVfztF24U0MYJlV_fZcGn1-cCGTg-puzUjJ8aSIeg
+
+Guía de Introducción a Postman
+https://media.licdn.com/dms/document/media/D4E1FAQEZGVJvX_0fQw/feedshare-document-pdf-analyzed/0/1726763120695?e=1728518400&v=beta&t=TflP2uqbcSMqdflp9kcFMaWM10J_OCyurcLl3nybHxg
+
+Guía de Introducción a la Ciberseguridad
+https://media.licdn.com/dms/document/media/D4D1FAQGek8NQe7F9MQ/feedshare-document-pdf-analyzed/0/1726750137215?e=1728518400&v=beta&t=gfVWAWFob7qGbR4Hq6LFppkUBgV4QoTxh52x7Hrb9XA
+
+Guía de programación Python
+https://media.licdn.com/dms/document/media/D4D1FAQGwoG6N7heUYA/feedshare-document-pdf-analyzed/0/1726749366103?e=1728518400&v=beta&t=1rdLBLhEwavVfpne8ozHIv2ytAaR599XVUpMqcAemik
+
+Guía de Deep Learning con Python
+https://media.licdn.com/dms/document/media/D561FAQEKHmlssVw7dw/feedshare-document-pdf-analyzed/0/1726717802007?e=1728518400&v=beta&t=vPLbmQYown-puHYeNjcCJg_nSlcrC5IRzDKogwbgRo8
+
+Guía de notas de GIT para profesionales
+https://media.licdn.com/dms/document/media/D561FAQERrbenJB0fdw/feedshare-document-pdf-analyzed/0/1726719296496?e=1728518400&v=beta&t=UQkhKJMzIwZ5hC5qMcJrm0pnSQxfoXvIXtcNUwBTP6w
+
+Libro. Los primeros 90 días
+https://media.licdn.com/dms/document/media/D561FAQFolvj3Djn5TQ/feedshare-document-pdf-analyzed/0/1726712190927?e=1728518400&v=beta&t=BU2mZ1hrejtervT4sDXs-znl4YjKP1wIhpzCSC8Q-wY
+
+Guía tutorial completa de Redux
+https://media.licdn.com/dms/document/media/C4D1FAQGR9-7nkvvWhg/feedshare-document-pdf-analyzed/0/1669250772668?e=1728518400&v=beta&t=qgkoAtSpiUoXBICKzY3C_nWAPStuIeH5MwXPGzK_gOQ
+
+Guía tutorial de Django en español
+https://media.licdn.com/dms/document/media/D561FAQGK0-DzedE_Rg/feedshare-document-pdf-analyzed/0/1726711583564?e=1728518400&v=beta&t=i2XPeHl5mOi_uWvhilTcsOfGJrueZFwDkQErgPpw59Q
+
+Libro. Mañanas milagrosas
+https://media.licdn.com/dms/document/media/D561FAQEE9J-Ko9oJBg/feedshare-document-pdf-analyzed/0/1726628422177?e=1728518400&v=beta&t=_bslzOQmkdIyBvevJdXhb3EGCybhzUTtytktGThaUE4
+
+Guía de programación Python y SQL
+https://media.licdn.com/dms/document/media/D4D1FAQHfQYAxLVO46A/feedshare-document-pdf-analyzed/0/1725866411328?e=1728518400&v=beta&t=_1sDD7y1VvDdwAuC7rS88523PetspekqAX0_zFKO7Uo
+
+Guía de Data Science 2024
+https://media.licdn.com/dms/document/media/D4D1FAQGKmy-omUgsEw/feedshare-document-pdf-analyzed/0/1726680734352?e=1728518400&v=beta&t=wanmBCfgfwL3f-I945Y2WvZ9pDwdNl4CGWXOfQd4mLI
+
+Guía handbook de Jenkins
+https://media.licdn.com/dms/document/media/D4E1FAQEVCAntwlW9CQ/feedshare-document-pdf-analyzed/0/1726658191966?e=1728518400&v=beta&t=jQ4xYOL82Jq94sVufY44HcEmW6WxQsdm7v7bQbjlUcc
+
+Guía tutorial de React de aprendiz a Maestro en Español
+https://media.licdn.com/dms/document/media/D4E1FAQEIaBvmnoxDqw/feedshare-document-pdf-analyzed/0/1726662644588?e=1728518400&v=beta&t=OhCs2i-KRFCv_R6g6ck78TY4beOC9GW3IWjYxGI8F4Y
+
+Guía la Ciberseguridad en el mundo comtemporáneo
+https://media.licdn.com/dms/document/media/D4E1FAQFec6nseB0O5Q/feedshare-document-pdf-analyzed/0/1725982441532?e=1728518400&v=beta&t=kY-ceand4JkBMx-haxCmyAkwTTXj1wsch80VkxpGbAU
+
+Guía de notas de TypeScript para profesionales
+https://media.licdn.com/dms/document/media/D4E1FAQFmwpcan9N8TA/feedshare-document-pdf-analyzed/0/1726602683915?e=1728518400&v=beta&t=AfiKns8B7kTBapURsPPuPwl7NBU77KM8LrGuQmoGwH4
+
+Guía de notas de .NET Framework para profesionales
+https://media.licdn.com/dms/document/media/D4D1FAQFt4qU0Vv1VRg/feedshare-document-pdf-analyzed/0/1726597759354?e=1728518400&v=beta&t=fOWD8Palog_l-4-vUEUdDSKucL-zRW580BGivpSl4sc
+
+Guía de notas de PostgreSQL para profesionales
+https://media.licdn.com/dms/document/media/D4E1FAQEaENBzZoKBFA/feedshare-document-pdf-analyzed/0/1726602304028?e=1728518400&v=beta&t=jT2IPZqLbjfLDjr805Psdjow9cZAKOmbVPuxPsWOJVQ
+
+Guía para integrar las tecnologías basadas en IA Generativa en el procesos de enseñanza y aprendizaje
+https://media.licdn.com/dms/document/media/D4E1FAQGctrmVDayRxQ/feedshare-document-pdf-analyzed/0/1726601162421?e=1728518400&v=beta&t=LSJKr5StFSyRz4nYpuujsmp3J2frjCYiFtLGwvt64Vs
+
+Guía de procesamiento de imágenes en Python
+https://media.licdn.com/dms/document/media/D561FAQFzi3mFU5YyZw/feedshare-document-pdf-analyzed/0/1725567009414?e=1728518400&v=beta&t=d_jvaueEn0mKQ_H6xphUDNLmHryukCx95hnpLmUK13c
+
+Libro. Hablar en público - El Arte y técnica de la Oratoria
+https://media.licdn.com/dms/document/media/D4E1FAQG9pOzfp2MUSg/feedshare-document-pdf-analyzed/0/1726539360399?e=1728518400&v=beta&t=IUMe1zZnX4oqGSYPxs3Feb3qAPiONz023fae4lE5EC4
+
+Guía de Python Tips & Tricks
+https://media.licdn.com/dms/document/media/D561FAQG0h-s6WuafNg/feedshare-document-pdf-analyzed/0/1726557292603?e=1728518400&v=beta&t=ji4BE1hy0dokGdDFaZToQDSgqb_xfsStq9t-zwU30Mw
+
+Guía completa de Diseño de Sotware en español
+https://media.licdn.com/dms/document/media/D4E1FAQHv8iw26VyvZQ/feedshare-document-pdf-analyzed/0/1726545143368?e=1728518400&v=beta&t=-y9GWAnqQpGGthLyfWJRmxTJPPZGZsQQGqe-GGkWkPc
+
+Libro. KPIs útiles - Diseña indicadores operativos que realmente sirvan para mejorar
+https://media.licdn.com/dms/document/media/D4E1FAQFvbyqSbRwlrQ/feedshare-document-pdf-analyzed/0/1726517710241?e=1728518400&v=beta&t=EPUnGSA5QO9RAKVhxxTZbl6YxtTCUw0sKHlZ5pIFm1k
+
+Libro. Invierte en ti
+https://media.licdn.com/dms/document/media/D4D1FAQHoVkGb7JLJkQ/feedshare-document-pdf-analyzed/0/1726532206540?e=1728518400&v=beta&t=Kgzj6ullnlo_rZEb5-k2OENFahmXxy6TgJVYfjQ2BIE
+
+Guía de ChatGPT y la IA Generativa, oportunidades y desafíos para las Pymes
+https://media.licdn.com/dms/document/media/D4E1FAQGKXGv3sCwT2A/feedshare-document-pdf-analyzed/0/1720017990881?e=1728518400&v=beta&t=N8ARENxhL4VrIRhEZyRud0g8i3KzjDrOFDWOb7RbFno
+
+Libro. El Poder de los cinco segundos.
+https://media.licdn.com/dms/document/media/D561FAQFi90lLhjx5mg/feedshare-document-pdf-analyzed/0/1725850861246?e=1728518400&v=beta&t=AGSTSKuwc5Lzc8xWJ6lrWWDZZR_TuTg2eaw0HYEeWIM
+
+Libro. Emprendedor
+https://media.licdn.com/dms/document/media/D561FAQGSjArJ8vX_Vw/feedshare-document-pdf-analyzed/0/1726498483114?e=1728518400&v=beta&t=7QRtlEIo4p5Y8zFnbtnzk9EAUqdeqnoRleuP6yMEZWM
+
+Guía de Programación Python para el aprendizaje automático con Numpy y SciPy.
+https://media.licdn.com/dms/document/media/D4D1FAQHEJu3RJSRqKQ/feedshare-document-pdf-analyzed/0/1726490425714?e=1728518400&v=beta&t=7cuBf8C0fE3s10AdP7NyGF3AU5xH6udLKnxXXZqXfLI
+
+Libro. De cero a uno. - Cómo inventar el futuro
+https://media.licdn.com/dms/document/media/D4E1FAQHuIvmUPb_BQw/feedshare-document-pdf-analyzed/0/1726436337302?e=1728518400&v=beta&t=ckmrcc44iDudESfjdryOd8D4J2ksO3skSvcpd9-lXvw
+
+Libro. Hábitos de alto rendimiento
+https://media.licdn.com/dms/document/media/D4E1FAQHfNHR5tkyOVQ/feedshare-document-pdf-analyzed/0/1726422820617?e=1728518400&v=beta&t=EMlGQheGbdInZRFL8l3cUJninIJrzmg9kpVso6ImX-Q
+
+Libro. El Poder está dentro de ti.
+https://media.licdn.com/dms/document/media/D561FAQGieZsQ7oWs5w/feedshare-document-pdf-analyzed/0/1726434441089?e=1728518400&v=beta&t=dV5PHbE7UfrH8QfPjN1GnR0IbEJd7PeAe4u3CCwQTgQ
+
+GuÍa para el aprendizaje de React- Native en español
+https://media.licdn.com/dms/document/media/D4E1FAQGv_UeKcYVMug/feedshare-document-pdf-analyzed/0/1726420204777?e=1728518400&v=beta&t=__V4ozRNR5XoE9-h1thsTX8yBCyHdbSa-LQMQBlSt1E
+
+Guía de Matplotlib para Python
+https://media.licdn.com/dms/document/media/D561FAQESDdP9gaIY1w/feedshare-document-pdf-analyzed/0/1726288118982?e=1728518400&v=beta&t=fGvCqnV6WYR9CsBRrpvFCpk7NoBcYoYujesQBRj_BdQ
+
+Guía de Introducción a los Microservicios
+https://media.licdn.com/dms/document/media/D4E1FAQEG3rpp56z58Q/feedshare-document-pdf-analyzed/0/1726374682521?e=1728518400&v=beta&t=KkFBtjNfwSRbrSqs2suanBlFifrgZ_A_2dnTRBMkfAY
+
+Guía para el aprendizaje de MySQL en español
+https://media.licdn.com/dms/document/media/D4E1FAQFsEn99O_uXeg/feedshare-document-pdf-analyzed/0/1726354966593?e=1728518400&v=beta&t=R3dsegwoo-KJyaQP5Ona0QTz1GEEAX23x1gNF9Bgc9U
+
+Guía de Fundamentos de Programación Python en español
+https://media.licdn.com/dms/document/media/D4E1FAQGDY_lDFnH2ig/feedshare-document-pdf-analyzed/0/1726344706471?e=1728518400&v=beta&t=NfgXLKTpli5AN7gr_FUbNertH_os_NBQuzEOumOyM7M
+
+Libro. Asertividad en el trabajo
+https://media.licdn.com/dms/document/media/D4E1FAQEBz9RGZfyycA/feedshare-document-pdf-analyzed/0/1726318802129?e=1728518400&v=beta&t=9pDkwwZ4rX0TCwH4I2copONc777ItKDlxfvTZYKjMeo
+
+Libro. El Poder de las Palabras
+https://media.licdn.com/dms/document/media/D4E1FAQFIHpolc4uJ2A/feedshare-document-pdf-analyzed/0/1726113134983?e=1728518400&v=beta&t=eRmEZUKwGzrAMq0odo9kEardInIQ-HWLTczou2EjBj0
+
+Guía de NumPy de Python
+https://media.licdn.com/dms/document/media/D4D1FAQGwxmSVc0akhg/feedshare-document-pdf-analyzed/0/1726223079218?e=1728518400&v=beta&t=_a5NrytQw29auwTk5JGIJ06_-_QLE_UKSZ3MkueRExM
+
+Guía de comandos Linux
+https://media.licdn.com/dms/document/media/D4D1FAQEiXrCC3oW5MQ/feedshare-document-pdf-analyzed/0/1726134854659?e=1728518400&v=beta&t=2KJmcOOimtPRqRxFwgXIlDy6XAX2ABPgvXqhHI_aaSs
+
+Guía de Introducción a Power BI
+https://media.licdn.com/dms/document/media/D561FAQFWNLmNsLVeOA/feedshare-document-pdf-analyzed/0/1726104971196?e=1728518400&v=beta&t=pNmNGYTOmjQ7JeiNFyCrqKHtLcDv8t7DZ_vyz8g3xYY
+
+Libro. Las nuevas formas de ahorrar
+https://media.licdn.com/dms/document/media/D4E1FAQFA9-z2QsfGJQ/feedshare-document-pdf-analyzed/0/1726104518546?e=1728518400&v=beta&t=S-K1kTqfT0nPdYsHtVfOJPVzTcT7Im4lTFMdpiBQwcQ
+
+Guía de programación dinámica en Python
+https://media.licdn.com/dms/document/media/D561FAQHD_NEEv8pk8Q/feedshare-document-pdf-analyzed/0/1726047293361?e=1728518400&v=beta&t=XtHKIEd0hjI-yUGWX4v6xuM8X7nghN2wo1mS_PPHUiU
+
+Guía de preguntas de la entrevista de Recursos Humanos
+https://media.licdn.com/dms/document/media/D4E1FAQFO1allIg7S5Q/feedshare-document-pdf-analyzed/0/1726086551310?e=1728518400&v=beta&t=uQnpPBrSW3XT6qp4a3Cb94zpxgi-YqVP5b2Hra_Htpg
+
+Guía de programación avanzada Python
+https://media.licdn.com/dms/document/media/D561FAQHWYKliZh073w/feedshare-document-pdf-analyzed/0/1725886241212?e=1728518400&v=beta&t=WPHTjDxQF31QaCraPlyaJayplRUVO8gcuyjQR8dgPGA
+
+Guía tutorial de Pandas
+https://media.licdn.com/dms/document/media/D561FAQEqexSFVHAJtg/feedshare-document-pdf-analyzed/0/1725858573421?e=1728518400&v=beta&t=6-kJeoIqCrxyJ6oDc-j4BCXNIlP4hiMG3F8uNAjWiMA
+
+Guía para el aprendizaje de Ruby on Rails en español
+https://media.licdn.com/dms/document/media/D4E1FAQFEPZJdZ-yA2g/feedshare-document-pdf-analyzed/0/1725835085651?e=1728518400&v=beta&t=P29QFpGM6uh5SDO3z8EPht082GTFNQdQPRS2qZUK7i0
+
+GuÍa de Algoritmos y Estructura de Datos en Python en español
+https://media.licdn.com/dms/document/media/D4E1FAQHSe3r891wvQw/feedshare-document-pdf-analyzed/0/1725743306765?e=1728518400&v=beta&t=b0e6hoJ3cSFtbrdPV2fDCbIC-lP1lMb0kiUuv7FnvVQ
+
+Guía de visualización de datos de Matplotlib de Python
+https://media.licdn.com/dms/document/media/D561FAQHZccSUWue4tA/feedshare-document-pdf-analyzed/0/1725689684302?e=1728518400&v=beta&t=Jp4h1SwHJPAa22SWtBe0pzgDUt_Ak6nUGePYfL0JNXQ
+
+Guía de Python para cientificos
+https://media.licdn.com/dms/document/media/D4E1FAQGi-DPNB_ltfQ/feedshare-document-pdf-analyzed/0/1725707166551?e=1728518400&v=beta&t=cedBFCTGVGp3P9Ne5jovIgXcbILxnK8TRt4Xu4oGNFQ
+
+Guía de Python GUI Automation
+https://media.licdn.com/dms/document/media/D4D1FAQHWjtT5EpleOw/feedshare-document-pdf-analyzed/0/1724866108204?e=1728518400&v=beta&t=V1VI9syqjUdh8764rAUXLY1hdWuyklP4sN0L8dX1h5Y
+
+Guía de Ciberseguridad una Estrategia Informático-Militar.
+https://media.licdn.com/dms/document/media/D4D1FAQFovP4gAUTNAA/feedshare-document-pdf-analyzed/0/1725642516064?e=1728518400&v=beta&t=cu2y4VfQQMlHGEO3TBlJpSPRR6dSfQDGui2yGlKvBXk
+
+Guía de Machine Learning en Python
+https://media.licdn.com/dms/document/media/D561FAQGc-T0-kcWZug/feedshare-document-pdf-analyzed/0/1725684860674?e=1728518400&v=beta&t=Nso4ZR4iSdhAy200nlHEwCAMzOyUnPY0miKA3nDu12Q
+
+Guía el arte de pedirle a ChatGPT respuestas de alta calidad
+https://media.licdn.com/dms/document/media/D561FAQEB01eanPX0mg/feedshare-document-pdf-analyzed/0/1725607981569?e=1728518400&v=beta&t=utm6dsz0uc_D7uK41ZCpQyLS8UheqNKs351Xv2dBjiw
+
+Guía de Python en Excel
+https://media.licdn.com/dms/document/media/D4D1FAQEpqqVYkAoOvg/feedshare-document-pdf-analyzed/0/1724665146392?e=1728518400&v=beta&t=2UCdNEmB_QS2uvSfNsVmsatNEFxV_cm6dXuCQ7Jd4is
+
+Guía de notas de Docker
+https://media.licdn.com/dms/document/media/D4D1FAQGGvHJWK9Av8A/feedshare-document-pdf-analyzed/0/1725587800259?e=1728518400&v=beta&t=aZHZBtPNYyaYyJoIlKv7sHNmJbXrAcOmGeTCRWoiU1Q
+
+Guía biblia Python 2024
+https://media.licdn.com/dms/document/media/D561FAQGxRMKuxYIK6g/feedshare-document-pdf-analyzed/0/1725593291629?e=1728518400&v=beta&t=CUpbKPmPxnJyYBFJ0fc75VkJtoBzqR0cRQVBlLa3MBk
+
+Guía de Machine Learning en el AWS Cloud
+https://media.licdn.com/dms/document/media/D4D1FAQF2UcbH312TgQ/feedshare-document-pdf-analyzed/0/1725541289231?e=1728518400&v=beta&t=3SfUqSiL5nL-T36x2ORleaEmow-Rnm6faOe7r_68p8c
+
+Guía Simple Devops Projects
+https://media.licdn.com/dms/document/media/D561FAQHFX1lgNjPOAA/feedshare-document-pdf-analyzed/0/1725594680771?e=1728518400&v=beta&t=CPp9BgxYciK5LQA8IhuVDjfamhmZ5jy0DuojyyAOiXk
+
+Guía entendiendo Big Data
+https://media.licdn.com/dms/document/media/D561FAQHjX35vc-TUyA/feedshare-document-pdf-analyzed/0/1725492091431?e=1728518400&v=beta&t=9Lb5fA3K72kEBJ6ot2djL9cMCxICexWHsYBzgWa4O5I
+
+Guía de ejercicios de programación Python
+https://media.licdn.com/dms/document/media/D561FAQEdjpXswMdjpA/feedshare-document-pdf-analyzed/0/1725546037319?e=1728518400&v=beta&t=FHrYXhf-NUbBxSBTJj_4aUqo3HZOpoe-5Bj-WZvXkwc
+
+Guía tutorial de GIT Pro en español
+https://media.licdn.com/dms/document/media/D561FAQGFZxovUU4iig/feedshare-document-pdf-analyzed/0/1725409000528?e=1728518400&v=beta&t=Uurxa-C4JxcUGojDTETQhjTeGjMeiSpXCi-61d9-OD0
+
+Guía de JavaScript eloquente 2024 en español
+https://media.licdn.com/dms/document/media/D4E1FAQFDKc_SsZMLDw/feedshare-document-pdf-analyzed/0/1725244877899?e=1728518400&v=beta&t=074pswFQQMFVYQsqrrVSWTMBlDh45ec8K7CKKedAIcA
+
+Guia de Internet de las Cosas IoT Ciberseguridad Framework
+https://media.licdn.com/dms/document/media/D4D1FAQHkhyd444BCAA/feedshare-document-pdf-analyzed/0/1725008180904?e=1728518400&v=beta&t=8joGmJrNguUfon_cTQRja8cbMlJXFJCpOdnOrvFCTdo
+
+Guia de notas Cisco CCNA
+https://media.licdn.com/dms/document/media/D4D1FAQGLg8OPxmPrug/feedshare-document-pdf-analyzed/0/1725196791282?e=1728518400&v=beta&t=67u1IxZmb6fcupJlWWeEtasqwz2xGc2luYKcK9nMEO8
+
+Guía de introducción a Kubernetes
+https://media.licdn.com/dms/document/media/D561FAQFrC9roexXBnA/feedshare-document-pdf-analyzed/0/1725116033594?e=1728518400&v=beta&t=0d94lw9hHVHo629RUF_VENml56KLqbOQhK-yPKuS2X8
+
+Guía de Análisis Forense de Sistemas Informáticos
+https://media.licdn.com/dms/document/media/D4D1FAQGPQhZS-TOMgg/feedshare-document-pdf-analyzed/0/1725126554240?e=1728518400&v=beta&t=P2h6hxCBB80tMmLCyg5WrNMxUVNDcbqMIp4frrZ5Ga0
+
+Guía de Fundamentos de Programación Java en español
+https://media.licdn.com/dms/document/media/D4E1FAQFgvrmN6QrUIQ/feedshare-document-pdf-analyzed/0/1725125758431?e=1728518400&v=beta&t=m7zbWAfrqo-V0c9Jp1gTide5ODo4WFw1FdU9GCJwtxU
+
+Libro. Me nombraron Jefe ¿Que hago?
+https://media.licdn.com/dms/document/media/D561FAQEffCeRq5bf_g/feedshare-document-pdf-analyzed/0/1724886464942?e=1728518400&v=beta&t=yJDlGsn0nOn4Wis5d7atP_1NDehAcSw8qsU626JUr2s
+
+Libro. Mentor 101
+https://media.licdn.com/dms/document/media/D4E1FAQHAiE9WRSDrZQ/feedshare-document-pdf-analyzed/0/1724899714012?e=1728518400&v=beta&t=N3OT4eZakC7qRz6asw6IYBZNQPK8NofMBqZ-3G8Zm7I

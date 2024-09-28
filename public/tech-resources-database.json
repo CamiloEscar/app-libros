@@ -1,0 +1,772 @@
+{
+  "educationalResources": [
+    {
+      "slug": "guia-tutorial-end-to-end-api-security",
+      "title": "Guia tutorial End to End API Security",
+      "link": "https://media.licdn.com/dms/document/media/D4E1FAQHdn3_CkEcMDw/feedshare-document-pdf-analyzed/0/1727468576646?e=1728518400&v=beta&t=jO0cSNInINPdp3QjSTL1lQxo0ra3Q7YTiyiW_JmjpiM",
+      "tags": ["API", "Security", "Tutorial"],
+      "type": "Tutorial",
+      "language": "Español",
+      "date": "2024-03-28"
+    },
+    {
+      "slug": "guia-aprendizaje-programacion-dinamica",
+      "title": "Guía para el aprendizaje de Programación Dinámica en español",
+      "link": "https://media.licdn.com/dms/document/media/D4E1FAQGVB-ZWdoSgvQ/feedshare-document-pdf-analyzed/0/1727488727324?e=1728518400&v=beta&t=M8kxo06kZ6dS478EYCfgzgE--d2uJ2Tohwz_sVOAtbo",
+      "tags": ["Programming", "Dynamic Programming", "Spanish"],
+      "type": "Learning Guide",
+      "language": "Español",
+      "date": "2024-03-28"
+    },
+    {
+      "slug": "diferencias-scrum-master-jefe-proyectos",
+      "title": "Diferencias entre Scrum Master y Jefe de Proyectos",
+      "link": "https://media.licdn.com/dms/document/media/D561FAQFcX6qC3M98Hw/feedshare-document-pdf-analyzed/0/1727292207061?e=1728518400&v=beta&t=dpG6FycKCxB9JKwhzEnpMndMW348u47DElxyf0UH6_c",
+      "tags": ["Scrum", "Project Management", "Comparison"],
+      "type": "Comparison Guide",
+      "language": "Español",
+      "date": "2024-03-26"
+    },
+    {
+      "slug": "guia-mapeo-procesos",
+      "title": "Guía de Mapeo de Procesos",
+      "link": "https://media.licdn.com/dms/document/media/D4D1FAQFDdVVmHHxSSA/feedshare-document-pdf-analyzed/0/1727458917785?e=1728518400&v=beta&t=d0tsug5qZusYTIAtNBEZPhLCkpaJD6RgpHNwDSjM8qY",
+      "tags": ["Process Mapping", "Business Analysis"],
+      "type": "Guide",
+      "language": "Español",
+      "date": "2024-03-28"
+    },
+    {
+      "slug": "guia-estadisticas-para-todos",
+      "title": "Guía de Estadísticas para Todos",
+      "link": "https://media.licdn.com/dms/document/media/D4D1FAQH7mJTGwH0bwg/feedshare-document-pdf-analyzed/0/1727448815343?e=1728518400&v=beta&t=6BhbDLovvf7_OLENYwjZK95x6TTLWxI44tZMkbwGzTc",
+      "tags": ["Statistics", "Beginner"],
+      "type": "Guide",
+      "language": "Español",
+      "date": "2024-03-28"
+    },
+    {
+      "slug": "guia-notas-kubernetes",
+      "title": "Guía de notas de Kubernetes",
+      "link": "https://media.licdn.com/dms/document/media/D561FAQH_mFniJflRig/feedshare-document-pdf-analyzed/0/1727436573663?e=1728518400&v=beta&t=YJd0Q9o3VOBrgkf1WYtonnON_XAUv71BJ-0rBSkDvrs",
+      "tags": ["Kubernetes", "DevOps", "Container Orchestration"],
+      "type": "Notes",
+      "language": "Español",
+      "date": "2024-03-27"
+    },
+    {
+      "slug": "guia-tutorial-devsecops",
+      "title": "Guía tutorial DevSecOps",
+      "link": "https://media.licdn.com/dms/document/media/D561FAQG9oWmOwTv0EA/feedshare-document-pdf-analyzed/0/1727338043867?e=1728518400&v=beta&t=qZtcQ3eFsBVhtgpoymsKKiUhvtxc919J3mITiQ742kA",
+      "tags": ["DevSecOps", "Security", "DevOps"],
+      "type": "Tutorial",
+      "language": "Español",
+      "date": "2024-03-26"
+    },
+    {
+      "slug": "guia-robots-ai",
+      "title": "Guía de Robots y AI",
+      "link": "https://media.licdn.com/dms/document/media/D4D1FAQFf0A1cvYlHGQ/feedshare-document-pdf-analyzed/0/1727438184781?e=1728518400&v=beta&t=SF__LsIAdLvJIo2BaBYF0mBKKEDQNHf6UoCqejgYbDQ",
+      "tags": ["Robots", "AI", "Artificial Intelligence"],
+      "type": "Guide",
+      "language": "Español",
+      "date": "2024-03-27"
+    },
+    {
+      "slug": "guia-aprendizaje-ansible",
+      "title": "Guía para el aprendizaje de Ansible en español",
+      "link": "https://media.licdn.com/dms/document/media/D4E1FAQGDaK2ku3YM9g/feedshare-document-pdf-analyzed/0/1727444920895?e=1728518400&v=beta&t=ombsyjoC9c6c91KUHnaFrVJi0-YnHkDmFJYMKEYPACM",
+      "tags": ["Ansible", "DevOps", "Automation"],
+      "type": "Learning Guide",
+      "language": "Español",
+      "date": "2024-03-28"
+    },
+    {
+      "slug": "guia-aprendizaje-apache-kafka",
+      "title": "Guía para el aprendizaje de Apache Kafka en español",
+      "link": "https://media.licdn.com/dms/document/media/D4E1FAQGTY3Kd7xlCwA/feedshare-document-pdf-analyzed/0/1727444780842?e=1728518400&v=beta&t=hwFFq5PegYWcTxCTdi_v-sAU7h9Vnk2kYPBWeQQf69M",
+      "tags": ["Apache Kafka", "Streaming", "Big Data"],
+      "type": "Learning Guide",
+      "language": "Español",
+      "date": "2024-03-28"
+    },
+    {
+      "slug": "guia-tutorial-end-to-end-api-security",
+      "title": "Guia tutorial End to End API Security",
+      "link": "https://media.licdn.com/dms/document/media/D4E1FAQHdn3_CkEcMDw/feedshare-document-pdf-analyzed/0/1727468576646?e=1728518400&v=beta&t=jO0cSNInINPdp3QjSTL1lQxo0ra3Q7YTiyiW_JmjpiM",
+      "tags": ["API", "Security", "Tutorial"],
+      "type": "Tutorial",
+      "language": "Español",
+      "date": "2024-03-28"
+    },
+    {
+      "slug": "guia-aprendizaje-programacion-dinamica",
+      "title": "Guía para el aprendizaje de Programación Dinámica en español",
+      "link": "https://media.licdn.com/dms/document/media/D4E1FAQGVB-ZWdoSgvQ/feedshare-document-pdf-analyzed/0/1727488727324?e=1728518400&v=beta&t=M8kxo06kZ6dS478EYCfgzgE--d2uJ2Tohwz_sVOAtbo",
+      "tags": ["Programming", "Dynamic Programming", "Spanish"],
+      "type": "Learning Guide",
+      "language": "Español",
+      "date": "2024-03-28"
+    },
+    {
+      "slug": "diferencias-scrum-master-jefe-proyectos",
+      "title": "Diferencias entre Scrum Master y Jefe de Proyectos",
+      "link": "https://media.licdn.com/dms/document/media/D561FAQFcX6qC3M98Hw/feedshare-document-pdf-analyzed/0/1727292207061?e=1728518400&v=beta&t=dpG6FycKCxB9JKwhzEnpMndMW348u47DElxyf0UH6_c",
+      "tags": ["Scrum", "Project Management", "Comparison"],
+      "type": "Comparison Guide",
+      "language": "Español",
+      "date": "2024-03-26"
+    },
+    {
+      "slug": "guia-mapeo-procesos",
+      "title": "Guía de Mapeo de Procesos",
+      "link": "https://media.licdn.com/dms/document/media/D4D1FAQFDdVVmHHxSSA/feedshare-document-pdf-analyzed/0/1727458917785?e=1728518400&v=beta&t=d0tsug5qZusYTIAtNBEZPhLCkpaJD6RgpHNwDSjM8qY",
+      "tags": ["Process Mapping", "Business Analysis"],
+      "type": "Guide",
+      "language": "Español",
+      "date": "2024-03-28"
+    },
+    {
+      "slug": "guia-estadisticas-para-todos",
+      "title": "Guía de Estadísticas para Todos",
+      "link": "https://media.licdn.com/dms/document/media/D4D1FAQH7mJTGwH0bwg/feedshare-document-pdf-analyzed/0/1727448815343?e=1728518400&v=beta&t=6BhbDLovvf7_OLENYwjZK95x6TTLWxI44tZMkbwGzTc",
+      "tags": ["Statistics", "Beginner"],
+      "type": "Guide",
+      "language": "Español",
+      "date": "2024-03-28"
+    },
+    {
+      "slug": "guia-tutorial-devsecops",
+      "title": "Guía tutorial DevSecOps",
+      "link": "https://media.licdn.com/dms/document/media/D561FAQG9oWmOwTv0EA/feedshare-document-pdf-analyzed/0/1727338043867?e=1728518400&v=beta&t=qZtcQ3eFsBVhtgpoymsKKiUhvtxc919J3mITiQ742kA",
+      "tags": ["DevSecOps", "Security", "DevOps"],
+      "type": "Tutorial",
+      "language": "Español",
+      "date": "2024-03-26"
+    },
+    {
+      "slug": "guia-robots-ai",
+      "title": "Guía de Robots y AI",
+      "link": "https://media.licdn.com/dms/document/media/D4D1FAQFf0A1cvYlHGQ/feedshare-document-pdf-analyzed/0/1727438184781?e=1728518400&v=beta&t=SF__LsIAdLvJIo2BaBYF0mBKKEDQNHf6UoCqejgYbDQ",
+      "tags": ["Robots", "AI", "Artificial Intelligence"],
+      "type": "Guide",
+      "language": "Español",
+      "date": "2024-03-27"
+    },
+    {
+      "slug": "guia-aprendizaje-ansible",
+      "title": "Guía para el aprendizaje de Ansible en español",
+      "link": "https://media.licdn.com/dms/document/media/D4E1FAQGDaK2ku3YM9g/feedshare-document-pdf-analyzed/0/1727444920895?e=1728518400&v=beta&t=ombsyjoC9c6c91KUHnaFrVJi0-YnHkDmFJYMKEYPACM",
+      "tags": ["Ansible", "DevOps", "Automation"],
+      "type": "Learning Guide",
+      "language": "Español",
+      "date": "2024-03-28"
+    },
+    {
+      "slug": "guia-aprendizaje-apache-kafka",
+      "title": "Guía para el aprendizaje de Apache Kafka en español",
+      "link": "https://media.licdn.com/dms/document/media/D4E1FAQGTY3Kd7xlCwA/feedshare-document-pdf-analyzed/0/1727444780842?e=1728518400&v=beta&t=hwFFq5PegYWcTxCTdi_v-sAU7h9Vnk2kYPBWeQQf69M",
+      "tags": ["Apache Kafka", "Streaming", "Big Data"],
+      "type": "Learning Guide",
+      "language": "Español",
+      "date": "2024-03-28"
+    },
+    {
+      "slug": "guia-aprendizaje-apache-spark",
+      "title": "Guía para el aprendizaje de Apache Spark en español",
+      "link": "https://media.licdn.com/dms/document/media/D4E1FAQHPfTZHP-th4Q/feedshare-document-pdf-analyzed/0/1727444733878?e=1728518400&v=beta&t=AGsA9JeKtJtBpwPgWNxEpx_gBu6fBjU1k11-vxx_xAY",
+      "tags": ["Apache Spark", "Big Data", "Data Processing"],
+      "type": "Learning Guide",
+      "language": "Español",
+      "date": "2024-03-28"
+    },
+    {
+      "slug": "guia-buen-gobierno-ciberseguridad",
+      "title": "Guía de Buen Gobierno en Ciberseguridad",
+      "link": "https://media.licdn.com/dms/document/media/D4E1FAQFIfokjU6B2Jg/feedshare-document-pdf-analyzed/0/1727429801845?e=1728518400&v=beta&t=ui4uYGmA-DRoU8P_D3sQ-2ndcg5rP5cBWNT15mim-3k",
+      "tags": ["Cybersecurity", "Governance", "IT Management"],
+      "type": "Guide",
+      "language": "Español",
+      "date": "2024-03-27"
+    },
+    {
+      "slug": "guia-administrador-red-linux",
+      "title": "Guía de Administrador de red LINUX",
+      "link": "https://media.licdn.com/dms/document/media/D4D1FAQFq3VM92o0fxg/feedshare-document-pdf-analyzed/0/1727376899696?e=1728518400&v=beta&t=D43p7a2LvFJjZxFIRr1Z6Vjk8zl6cMHCRdsa23Ph8Gs",
+      "tags": ["Linux", "Network Administration", "System Administration"],
+      "type": "Guide",
+      "language": "Español",
+      "date": "2024-03-27"
+    },
+    {
+      "slug": "guia-seguridad-aws",
+      "title": "Guía de seguridad de AWS",
+      "link": "https://media.licdn.com/dms/document/media/D561FAQGgw_q55-_maw/feedshare-document-pdf-analyzed/0/1727425097633?e=1728518400&v=beta&t=mOtbsjU_IBUMKjfGy_b7mBnb-s642ieAea0wQrSHe-g",
+      "tags": ["AWS", "Cloud Security", "Amazon Web Services"],
+      "type": "Guide",
+      "language": "Español",
+      "date": "2024-03-27"
+    },
+    {
+      "slug": "guia-tutorial-python",
+      "title": "Guía tutorial de Python",
+      "link": "https://media.licdn.com/dms/document/media/D561FAQHVozDJtvZW5w/feedshare-document-pdf-analyzed/0/1727338209727?e=1728518400&v=beta&t=rVHSYkmHXr3bYkdWQmecnqcEGAOlAQV1kMLqK6p4AbM",
+      "tags": ["Python", "Programming", "Tutorial"],
+      "type": "Tutorial",
+      "language": "Español",
+      "date": "2024-03-26"
+    },
+    {
+      "slug": "guia-aprendizaje-jquery",
+      "title": "Guía para el aprendizaje de JQuery en español",
+      "link": "https://media.licdn.com/dms/document/media/D4E1FAQHKN5VQ2or_EQ/feedshare-document-pdf-analyzed/0/1727406377062?e=1728518400&v=beta&t=I3_qjET-VunCi3E91dgomRzXKo8oKDnVi_23NPKU-b4",
+      "tags": ["JQuery", "JavaScript", "Web Development"],
+      "type": "Learning Guide",
+      "language": "Español",
+      "date": "2024-03-27"
+    },
+    {
+      "slug": "guia-aprendizaje-redux",
+      "title": "Guía para el aprendizaje de Redux en español",
+      "link": "https://media.licdn.com/dms/document/media/D4E1FAQEaItZWkFWUzQ/feedshare-document-pdf-analyzed/0/1727405837851?e=1728518400&v=beta&t=8KzmlYCNjQVOB-UonqgJ3XwQlN1g7cSoB7Be6cseOuk",
+      "tags": ["Redux", "JavaScript", "State Management"],
+      "type": "Learning Guide",
+      "language": "Español",
+      "date": "2024-03-27"
+    },
+    {
+      "slug": "guia-estructura-datos-python",
+      "title": "Guía de Estructura de Datos en Python",
+      "link": "https://media.licdn.com/dms/document/media/D561FAQEep4fN-65BtQ/feedshare-document-pdf-analyzed/0/1727363130363?e=1728518400&v=beta&t=TOG8MxN8kQNcVw_B7d3nZqjK5staTbQlJLfZ4c52mGU",
+      "tags": ["Python", "Data Structures", "Programming"],
+      "type": "Guide",
+      "language": "Español",
+      "date": "2024-03-26"
+    },
+    {
+      "slug": "guia-tutorial-mysql",
+      "title": "Guía tutorial de MySQL en español",
+      "link": "https://media.licdn.com/dms/document/media/D4E1FAQFTOLP-AqEyWw/feedshare-document-pdf-analyzed/0/1727403032535?e=1728518400&v=beta&t=7_b0MH1K8Ve24qasd1n0Z-uu41XM58PynIXoaIuA2VA",
+      "tags": ["MySQL", "Database", "SQL"],
+      "type": "Tutorial",
+      "language": "Español",
+      "date": "2024-03-27"
+    },
+    {
+      "slug": "guia-aprendizaje-progress-4gl",
+      "title": "Guía para el aprendizaje de Progress 4GL en español",
+      "link": "https://media.licdn.com/dms/document/media/D4E1FAQGrDT1TuL1Hgw/feedshare-document-pdf-analyzed/0/1727402881027?e=1728518400&v=beta&t=1N9S2oRCbLw0vFwc0xq6pnl2r0EUtaz_uBlV7aZyIXw",
+      "tags": ["Progress 4GL", "Programming", "Business Applications"],
+      "type": "Learning Guide",
+      "language": "Español",
+      "date": "2024-03-26"
+    },
+    {
+      "slug": "guia-aprendizaje-lenguaje-julia",
+      "title": "Guía para el aprendizaje de lenguaje Julia en español",
+      "link": "https://media.licdn.com/dms/document/media/D4E1FAQG07CtS3oPDzw/feedshare-document-pdf-analyzed/0/1727402844115?e=1728518400&v=beta&t=iuUo3VZCKG2OPCKjdcFDk0pCHCoT2tlcQ20E5nMGrr0",
+      "tags": ["Julia", "Programming", "Scientific Computing"],
+      "type": "Learning Guide",
+      "language": "Español",
+      "date": "2024-03-27"
+    },
+    {
+      "slug": "guia-aprendizaje-estructura-datos",
+      "title": "Guía para el aprendizaje de Estructura de Datos en español",
+      "link": "https://media.licdn.com/dms/document/media/D4E1FAQFG1NSgM8MgNw/feedshare-document-pdf-analyzed/0/1727355434505?e=1728518400&v=beta&t=c-cKsTlJw1AWC1hpbHdJCY-HSe_Iwb_V7ffactWWizw",
+      "tags": ["Data Structures", "Programming", "Computer Science"],
+      "type": "Learning Guide",
+      "language": "Español",
+      "date": "2024-03-26"
+    },
+    {
+      "slug": "guia-aprendizaje-algoritmos",
+      "title": "Guía para el aprendizaje de Algoritmos en español",
+      "link": "https://media.licdn.com/dms/document/media/D4E1FAQHNFWzq_5M-yQ/feedshare-document-pdf-analyzed/0/1727355296289?e=1728518400&v=beta&t=5igo9RvNbK8cg9ijQJdMpo6GHTnhmWUIjLrV2M8ckIw",
+      "tags": ["Algorithms", "Programming", "Computer Science"],
+      "type": "Learning Guide",
+      "language": "Español",
+      "date": "2024-03-26"
+    },
+    {
+      "slug": "guia-terminologia-etl",
+      "title": "Guía de terminologia ETL",
+      "link": "https://media.licdn.com/dms/document/media/D561FAQGuKN34eWv9DQ/feedshare-document-pdf-analyzed/0/1727017191397?e=1728518400&v=beta&t=7Z3-_lHADXdcXo5jKL2xM3YPCGUAS2l7-986_KKrNiY",
+      "tags": ["ETL", "Data Engineering", "Business Intelligence"],
+      "type": "Guide",
+      "language": "Español",
+      "date": "2024-03-23"
+    },
+    {
+      "slug": "guia-algoritmos-python",
+      "title": "Guía de Algoritmos Python",
+      "link": "https://media.licdn.com/dms/document/media/D561FAQGVVsfu6_nocg/feedshare-document-pdf-analyzed/0/1727284193571?e=1728518400&v=beta&t=rv4pmMwucmxX-7MZFyN7XkIbB1Ziw8Dpdb4w9bSClqg",
+      "tags": ["Python", "Algorithms", "Programming"],
+      "type": "Guide",
+      "language": "Español",
+      "date": "2024-03-26"
+    },
+    {
+      "slug": "guia-conceptos-avanzados-sql",
+      "title": "Guía de conceptos avanzados de SQL con ejemplos",
+      "link": "https://media.licdn.com/dms/document/media/D4E1FAQFZZ3RGStY9EQ/feedshare-document-pdf-analyzed/0/1727266259038?e=1728518400&v=beta&t=6ODwYLMDnKdJa9Wh1h5BJaVFn3DO16GHhxB4qhlsu_g",
+      "tags": ["SQL", "Database", "Advanced Concepts"],
+      "type": "Guide",
+      "language": "Español",
+      "date": "2024-03-25"
+    },
+    {
+      "slug": "guia-proteccion-redes-red-hat-enterprise-linux-9",
+      "title": "Guía de proteccion de redes de Red Hat Enterprise Linux 9",
+      "link": "https://media.licdn.com/dms/document/media/D4E1FAQFVGnNepJtCIA/feedshare-document-pdf-analyzed/0/1727264541813?e=1728518400&v=beta&t=RwH95qFdr92bGU0367nXPzPh_rYGBm2iRKEatDl3SGI",
+      "tags": ["Red Hat", "Linux", "Network Security"],
+      "type": "Guide",
+      "language": "Español",
+      "date": "2024-03-25"
+    },
+    {
+      "slug": "guia-inteligencia-artificial-generativa-docencia",
+      "title": "Guía Inteligencia Artificial Generativa en la docencia",
+      "link": "https://media.licdn.com/dms/document/media/D4E1FAQGXFwBQT05l_w/feedshare-document-pdf-analyzed/0/1727077050432?e=1728518400&v=beta&t=kmH4T_4XNR54_QptF6CDs0HCIaY32XrN_lsOqLQU65c",
+      "tags": ["Artificial Intelligence", "Education", "Generative AI"],
+      "type": "Guide",
+      "language": "Español",
+      "date": "2024-03-23"
+    },
+    {
+      "slug": "guia-aprendizaje-sql-server",
+      "title": "Guía para el aprendizaje de SQL Server en español",
+      "link": "https://media.licdn.com/dms/document/media/D4E1FAQFocUF2vZs6sw/feedshare-document-pdf-analyzed/0/1727353273981?e=1728518400&v=beta&t=xemzo5mJ4pBf_enG7jNEwhnre3qZwwDjzwWQX-kQ8Es",
+      "tags": ["SQL Server", "Database", "Microsoft"],
+      "type": "Learning Guide",
+      "language": "Español",
+      "date": "2024-03-26"
+    },
+  {
+    "slug": "manual-director-seguridad-informacion",
+    "title": "Manual del Director de Seguridad de la Información",
+    "link": "https://media.licdn.com/dms/document/media/D561FAQGPfCdCmxgGOA/feedshare-document-pdf-analyzed/0/1727334169985?e=1728518400&v=beta&t=-sF-y4ttshqQl0gquwKN-s1p--yHRuvLkmVYexsWvlc",
+    "tags": ["Information Security", "Management", "CISO"],
+    "type": "Manual",
+    "language": "Español",
+    "date": "2024-03-26"
+  },
+  {
+    "slug": "python-200-things-2024",
+    "title": "Guía de Python 200 Things 2024",
+    "link": "https://media.licdn.com/dms/document/media/D4D1FAQHG0u8a1Aub6Q/feedshare-document-pdf-analyzed/0/1727270601114?e=1728518400&v=beta&t=AD2pebwX1up8TwIB9lWTzxqUtjq_MFBE48R3xTUti_M",
+    "tags": ["Python", "Programming"],
+    "type": "Guide",
+    "language": "Español",
+    "date": "2024"
+  },
+  {
+    "slug": "guia-aprendizaje-dart-flutter",
+    "title": "Guía para el aprendizaje de lenguaje Dart de Flutter en español",
+    "link": "https://media.licdn.com/dms/document/media/D4E1FAQGXQkzcD1xQjw/feedshare-document-pdf-analyzed/0/1727283014138?e=1728518400&v=beta&t=bI0G4HWEzvG_K2k7CUwl2it6_F6ADxm8NxmiEU0q2nE",
+    "tags": ["Dart", "Flutter", "Programming"],
+    "type": "Guide",
+    "language": "Español"
+  },
+  {
+    "slug": "guia-aprendizaje-matlab",
+    "title": "Guía para el aprendizaje del lenguaje Matlab en español",
+    "link": "https://media.licdn.com/dms/document/media/D4E1FAQE5h3SjMnfjng/feedshare-document-pdf-analyzed/0/1727281728573?e=1728518400&v=beta&t=46woEq10wblO_Hp-cvr0ZtDu2y_Ay5AOVUH1qrvoEiY",
+    "tags": ["Matlab", "Programming"],
+    "type": "Guide",
+    "language": "Español"
+  },
+  {
+    "slug": "guia-programacion-avanzada-python",
+    "title": "Guía de programación avanzada Python",
+    "link": "https://media.licdn.com/dms/document/media/D561FAQHSgXn8o47oFQ/feedshare-document-pdf-analyzed/0/1727261668838?e=1728518400&v=beta&t=tESIp7x-0rmzIE0OSMQV9B7xLiO6PHpYYtrzsN-fBq0",
+    "tags": ["Python", "Advanced Programming"],
+    "type": "Guide",
+    "language": "Español"
+  },
+  {
+    "slug": "guia-ia-generativa-educacion-superior",
+    "title": "Guía de IA Generativa en la Educación Superior",
+    "link": "https://media.licdn.com/dms/document/media/D4D1FAQFSYdJx-lA9Lg/feedshare-document-pdf-analyzed/0/1725952604988?e=1728518400&v=beta&t=Ea-KUhrG2ZB5qOj5JnpwF7kKDnatx3U5txrfztW3WLs",
+    "tags": ["AI", "Generative AI", "Higher Education"],
+    "type": "Guide",
+    "language": "Español"
+  },
+  {
+    "slug": "guia-notas-mongodb-profesionales",
+    "title": "Guía de notas de MongoDB para profesionales",
+    "link": "https://media.licdn.com/dms/document/media/D4E1FAQE894oedBo2lg/feedshare-document-pdf-analyzed/0/1727201732043?e=1728518400&v=beta&t=yEWqcIBWwrrwYdi0E79Wf1J9ZGIZ3pCEwSFNevuhXcM",
+    "tags": ["MongoDB", "Database"],
+    "type": "Guide",
+    "language": "Español"
+  },
+  {
+    "slug": "handbook-nodejs",
+    "title": "Guía handbook de Node.Js",
+    "link": "https://media.licdn.com/dms/document/media/D4E1FAQHx_36o7mrAlA/feedshare-document-pdf-analyzed/0/1727192770483?e=1728518400&v=beta&t=BOF4VWe2bBHE_HYU_sKXHAycO3ACPh3qXsM2ytk_xJI",
+    "tags": ["Node.js", "JavaScript"],
+    "type": "Handbook",
+    "language": "Español"
+  },
+  {
+    "slug": "handbook-express",
+    "title": "Guía handbook de Express",
+    "link": "https://media.licdn.com/dms/document/media/D4E1FAQHwMACDZ5GSnQ/feedshare-document-pdf-analyzed/0/1727192672815?e=1728518400&v=beta&t=SJiyPiu3jblyiNlm8J-Rg9Mfc4Q8a3yJV27PoFKkC2w",
+    "tags": ["Express", "Node.js", "Web Development"],
+    "type": "Handbook",
+    "language": "Español"
+  },
+  {
+    "slug": "guia-preparacion-entrevistas-trabajo",
+    "title": "Conoce como prepararte para cada tipo de entrevista de trabajo",
+    "link": "https://media.licdn.com/dms/document/media/D4D1FAQEHrCJjVhNUUg/feedshare-document-pdf-analyzed/0/1726573223851?e=1728518400&v=beta&t=RX1pl_oF1cK8-oqoImjlViCqDcsZ2gdljEMZ5eCSw6k",
+    "tags": ["Job Interview", "Career Development"],
+    "type": "Guide",
+    "language": "Español"
+  },
+  {
+    "slug": "guia-python-game-development",
+    "title": "Guía de Python Game Development",
+    "link": "https://media.licdn.com/dms/document/media/D4D1FAQEiS97urSGB7Q/feedshare-document-pdf-analyzed/0/1727107347715?e=1728518400&v=beta&t=6MKrJjRPYDQH0ErQgPFRfjiTYbsSpp6OjwtE9PeGT4g",
+    "tags": ["Python", "Game Development"],
+    "type": "Guide",
+    "language": "Español"
+  },
+{
+      "slug": "tutorial-handbook-swift",
+      "title": "Guía tutorial Handbook de Swift",
+      "link": "https://media.licdn.com/dms/document/media/D4E1FAQFrnFHnSjUH0g/feedshare-document-pdf-analyzed/0/1727144887158?e=1728518400&v=beta&t=YzM-Kw9FrXEXC1dfGvBQZxaSIQ4T68lU3o4mmYwH9Ds",
+      "tags": ["Swift", "iOS Development"],
+      "type": "Handbook",
+      "language": "Español"
+    },
+    {
+      "slug": "guia-notas-kotlin",
+      "title": "Guía de notas de Kotlin para profesionales",
+      "link": "https://media.licdn.com/dms/document/media/D4E1FAQEKWIrt3mrEUQ/feedshare-document-pdf-analyzed/0/1727144218021?e=1728518400&v=beta&t=stzW-mVrxWuEACzkFMy8u9qpaK_Ss9FSwt5swbzSVbY",
+      "tags": ["Kotlin", "Desarrollo Móvil"],
+      "type": "Guía",
+      "language": "Español"
+    },
+    {
+      "slug": "guia-python-todos",
+      "title": "Guía de Python para todos en español",
+      "link": "https://media.licdn.com/dms/document/media/D4D1FAQHcRsDfsJ_r_w/feedshare-document-pdf-analyzed/0/1727118306973?e=1728518400&v=beta&t=AN2QSm6HuykRoQRZYf-PtQzBEdwniLr7uJJzo5wEnfg",
+      "tags": ["Python", "Desarrollo Web"],
+      "type": "Guía",
+      "language": "Español"
+    },
+    {
+      "slug": "guia-asp-net",
+      "title": "Guía tutorial de ASP.NET en español",
+      "link": "https://media.licdn.com/dms/document/media/D4E1FAQGcN83edH3oiw/feedshare-document-pdf-analyzed/0/1727143645081?e=1728518400&v=beta&t=EIzWiv_-ctKjD7GnliQKn0lnoUZovesEA0keIeEkRTU",
+      "tags": ["ASP.NET", "Desarrollo Web"],
+      "type": "Tutorial",
+      "language": "Español"
+    },
+    {
+      "slug": "guia-spring-boot",
+      "title": "Guía de Spring Boot en español",
+      "link": "https://media.licdn.com/dms/document/media/D4E1FAQH5CUCC_VFiZw/feedshare-document-pdf-analyzed/0/1727143373665?e=1728518400&v=beta&t=09TEH90llBfcmGUIhLmR_yU6_OpKrz68awp9vmPABLs",
+      "tags": ["Spring Boot", "Java"],
+      "type": "Guía",
+      "language": "Español"
+    },
+    {
+      "slug": "mini-guia-pensamiento-critico",
+      "title": "Mini-guía para el Pensamiento Crítico",
+      "link": "https://media.licdn.com/dms/document/media/D4E1FAQH68SzQWGP5Xw/feedshare-document-pdf-analyzed/0/1727111658390?e=1728518400&v=beta&t=rxcx4tttY9YIZ9CPc6gZoCft3CqvonUaCRhyjCAMI2g",
+      "tags": ["Pensamiento Crítico"],
+      "type": "Mini-guía",
+      "language": "Español"
+    },
+    {
+      "slug": "guia-selenium-webdriver",
+      "title": "Guía de Selenium Webdriver en español",
+      "link": "https://media.licdn.com/dms/document/media/D4E1FAQGRFJUkGh64GA/feedshare-document-pdf-analyzed/0/1727112468143?e=1728518400&v=beta&t=yP_TUKkZKh7atsf8AC6Cxp13xHeBpVnuw1xWYpgiEQ4",
+      "tags": ["Selenium", "Testing"],
+      "type": "Guía",
+      "language": "Español"
+    },
+    {
+      "slug": "guia-pentesting-2024",
+      "title": "Guía de estudio sobre Pentesting 2024",
+      "link": "https://media.licdn.com/dms/document/media/D4E1FAQG_OTr5bTaXdg/feedshare-document-pdf-analyzed/0/1727112189774?e=1728518400&v=beta&t=q-RFG4c9nS1bKNdrpS4eozdD38I41Qze_s_neTjeZtM",
+      "tags": ["Pentesting", "Ciberseguridad"],
+      "type": "Guía",
+      "language": "Español"
+    },
+    {
+      "slug": "guia-entrevista-rrhh",
+      "title": "Guía de ejemplos de respuestas a las preguntas de la entrevista de trabajo de RR.HH.",
+      "link": "https://media.licdn.com/dms/document/media/D4E1FAQEyTW4zXn3D5A/feedshare-document-pdf-analyzed/0/1727106417764?e=1728518400&v=beta&t=qLiiDRPadCAY_HRqA_PiJ3O86tqYr799m_o1OK6XA3c",
+      "tags": ["Recursos Humanos", "Entrevistas"],
+      "type": "Guía",
+      "language": "Español"
+    },
+    {
+      "slug": "guia-proyectos-practicos-ia",
+      "title": "Guía de proyectos prácticos de IA para el Aula",
+      "link": "https://media.licdn.com/dms/document/media/D4E1FAQFY02NyJjlJEQ/feedshare-document-pdf-analyzed/0/1727053858774?e=1728518400&v=beta&t=TKef_PveyQEHuH9k2M4JI0M11wsSTRTNgZv3chsjsTA",
+      "tags": ["IA", "Educación"],
+      "type": "Guía",
+      "language": "Español"
+    },
+    {
+      "slug": "guia-buen-gobierno-ciberseguridad",
+      "title": "Guía de Buen Gobierno en Ciberseguridad",
+      "link": "https://media.licdn.com/dms/document/media/D561FAQHLhnctXZTYTA/feedshare-document-pdf-analyzed/0/1727102818225?e=1728518400&v=beta&t=znOZdm8IeH73on01CDvy1gKDrXmLg_0paJKNYvkcgWU",
+      "tags": ["Ciberseguridad", "Gobernanza"],
+      "type": "Guía",
+      "language": "Español"
+    },
+    {
+      "slug": "guia-practica-ethical-hacking-python",
+      "title": "Guía práctica de Ethical Hacking con Python",
+      "link": "https://media.licdn.com/dms/document/media/D561FAQFqNWOdiw2qlA/feedshare-document-pdf-analyzed/0/1727103665911?e=1728518400&v=beta&t=z-89venyKeY9kWjLDR9mGVo4kMB0MXuksQdQ8J2kaCc",
+      "tags": ["Python", "Ethical Hacking"],
+      "type": "Guía",
+      "language": "Español"
+    },
+    {
+      "slug": "guia-ciencia-datos-aplicada",
+      "title": "Guía de Ciencia de Datos aplicada",
+      "link": "https://media.licdn.com/dms/document/media/D561FAQHH0D_834zqiw/feedshare-document-pdf-analyzed/0/1727095495463?e=1728518400&v=beta&t=Knjo0Jye6mZfS7a5DgW0ZDkQ3CdmeQsvjIRPp0DnnUs",
+      "tags": ["Ciencia de Datos"],
+      "type": "Guía",
+      "language": "Español"
+    },
+    {
+      "slug": "guia-visualizacion-plotly-python",
+      "title": "Guía de visualización de datos con Plotly en Python",
+      "link": "https://media.licdn.com/dms/document/media/D4E1FAQFNZOxO5bjimg/feedshare-document-pdf-analyzed/0/1727067790493?e=1728518400&v=beta&t=aIjL9esGlQI9QFz92SxOTn40AujrXuuxYFn0tp3kAHI",
+      "tags": ["Plotly", "Python", "Visualización de Datos"],
+      "type": "Guía",
+      "language": "Español"
+    },
+      {
+    "slug": "guia-wordlists-pentester",
+    "title": "Guía de Wordlists para Pentester",
+    "link": "https://media.licdn.com/dms/document/media/D561FAQExj5rOXp8nng/feedshare-document-pdf-analyzed/0/1726719322856?e=1728518400&v=beta&t=GOMuYB_nXIRTVy7Lj_xTLExwQebtXC4f8mg0tYNdoYk",
+    "tags": ["Pentesting", "Wordlists"],
+    "type": "Guía",
+    "language": "Español"
+  },
+  {
+    "slug": "guia-oop-java",
+    "title": "Guía de Programación Orientada a Objetos en Java",
+    "link": "https://media.licdn.com/dms/document/media/D561FAQGp1ZsnezsTpw/feedshare-document-pdf-analyzed/0/1727060387801?e=1728518400&v=beta&t=9CBv9eympfBry7NUjBQqTykZApCN_icmpq_82wICQpQ",
+    "tags": ["Java", "OOP"],
+    "type": "Guía",
+    "language": "Español"
+  },
+  {
+    "slug": "guia-arte-postgresql",
+    "title": "Guía 'El Arte de PostgreSQL'",
+    "link": "https://media.licdn.com/dms/document/media/D561FAQGMfQIihsQPrA/feedshare-document-pdf-analyzed/0/1727058290925?e=1728518400&v=beta&t=mTTBpeIzdH-ozqkLvi4fpauPSFgw_4kU3OmHt6Chw7M",
+    "tags": ["PostgreSQL", "Bases de datos"],
+    "type": "Guía",
+    "language": "Español"
+  },
+  {
+    "slug": "guia-mikrotik-seguridad",
+    "title": "Guía de Mikrotik Seguridad para Principiantes",
+    "link": "https://media.licdn.com/dms/document/media/D4D1FAQGUloTZ7SAPYQ/feedshare-document-pdf-analyzed/0/1727025459109?e=1728518400&v=beta&t=yD9Lfg7VU83_CVcrTivUlP_wqvzv3bpT6QDSyn8_pk8",
+    "tags": ["Seguridad", "Mikrotik"],
+    "type": "Guía",
+    "language": "Indio"
+  },
+  {
+    "slug": "libro-inteligencia-artificial",
+    "title": "El Libro de la Inteligencia Artificial",
+    "link": "https://media.licdn.com/dms/document/media/D4E1FAQHHeC07aGkD8A/feedshare-document-pdf-analyzed/0/1727064284766?e=1728518400&v=beta&t=CM5CFoFrqawxioUZSs6PnDGnRywpFZszsUgyvBhhBe8",
+    "tags": ["Inteligencia Artificial"],
+    "type": "Libro",
+    "language": "Español"
+  },
+  {
+    "slug": "guia-ciencia-datos",
+    "title": "Guía de Ciencia de Datos desde Cero",
+    "link": "https://media.licdn.com/dms/document/media/D4E1FAQETv4wespCaDg/feedshare-document-pdf-analyzed/0/1727062618172?e=1728518400&v=beta&t=RQqIMGK6WGz9V0Dy57tmlFcoJgbXm81_wEzkdU9MpfI",
+    "tags": ["Ciencia de Datos", "Python"],
+    "type": "Guía",
+    "language": "Español"
+  },
+  {
+    "slug": "guia-instrucciones-ia-generativa",
+    "title": "Guía Práctica de Instrucciones para Uso de IA Generativa",
+    "link": "https://media.licdn.com/dms/document/media/D4D1FAQHZ7n1cG8DYRA/feedshare-document-pdf-analyzed/0/1727054139541?e=1728518400&v=beta&t=xu59tSEWaWHFGwl71Z6lLlT6gYp7Z35aZ3ION9cWIbM",
+    "tags": ["Inteligencia Artificial", "IA Generativa"],
+    "type": "Guía",
+    "language": "Español"
+  },
+  {
+    "slug": "libro-actitud-mental-positiva",
+    "title": "Libro: La Actitud Mental Positiva",
+    "link": "https://media.licdn.com/dms/document/media/D4E1FAQG_flh3SVGu7g/feedshare-document-pdf-analyzed/0/1727046875185?e=1728518400&v=beta&t=XiVXtCXq0lReJz4d_7ra5noaV54JEmNDiFoX7Sg-j_0",
+    "tags": ["Desarrollo Personal"],
+    "type": "Libro",
+    "language": "Español"
+  },
+  {
+    "slug": "libro-cualidades-lider",
+    "title": "Libro: Las 21 Cualidades Indispensables de un Líder",
+    "link": "https://media.licdn.com/dms/document/media/D4E1FAQGLeZqNtD3tCA/feedshare-document-pdf-analyzed/0/1727022876269?e=1728518400&v=beta&t=CanL6fXmLBZjIbZEAY2hOFvP5ZEPwWJC82jK7V0IrLY",
+    "tags": ["Liderazgo", "Desarrollo Personal"],
+    "type": "Libro",
+    "language": "Español"
+  },
+  {
+    "slug": "libro-cuando-todo-se-derrumba",
+    "title": "Libro: Cuando Todo se Derrumba",
+    "link": "https://media.licdn.com/dms/document/media/D4E1FAQFfbTqgab1hvg/feedshare-document-pdf-analyzed/0/1726982483354?e=1728518400&v=beta&t=Z5o8xVgdkj8VOS571MziOoSLgx7jMSfX8MNPwF1poMQ",
+    "tags": ["Desarrollo Personal", "Motivación"],
+    "type": "Libro",
+    "language": "Español"
+  },
+  {
+    "slug": "guia-introduccion-ciberseguridad",
+    "title": "Guía de Introducción a la Ciberseguridad",
+    "link": "https://media.licdn.com/dms/document/media/D4D1FAQHu0MxHcquJlA/feedshare-document-pdf-analyzed/0/1727010111639?e=1728518400&v=beta&t=SSAjkHWbu-cZgcdY_XfzjIw_asSq3f6hzXZJ_VzCvz0",
+    "tags": ["Ciberseguridad"],
+    "type": "Guía",
+    "language": "Español"
+  },
+  {
+    "slug": "guia-subredes-tcp-ip",
+    "title": "Guía de Descripción de las Subredes TCP/IP",
+    "link": "https://media.licdn.com/dms/document/media/D4D1FAQFPfuhvLOv7LQ/feedshare-document-pdf-analyzed/0/1727010156332?e=1728518400&v=beta&t=iBKC-dBiqeCZcLiue0aZH7FVvs-TmQUtM5eZyifdgfg",
+    "tags": ["Redes", "TCP/IP"],
+    "type": "Guía",
+    "language": "Español"
+  },
+  {
+    "slug": "guia-chatbots-educacion",
+    "title": "Guía de Chatbots en la Educación",
+    "link": "https://media.licdn.com/dms/document/media/D4E1FAQEY39pAp0GULQ/feedshare-document-pdf-analyzed/0/1727046103672?e=1728518400&v=beta&t=tPIG7Kgw-fD6UpOAAjDPfNjmhSJHo8O7zTU_kZ5hvSw",
+    "tags": ["Chatbots", "Educación"],
+    "type": "Guía",
+    "language": "Español"
+  },
+  {
+    "slug": "guia-fundamentos-python",
+    "title": "Guía de Fundamentos de Programación Python",
+    "link": "https://media.licdn.com/dms/document/media/D561FAQFxat6qRN5GUg/feedshare-document-pdf-analyzed/0/1726854122522?e=1728518400&v=beta&t=rjcZnG5YwGpH7hvRxpfP2OGNfyTVSZWnPpxgURimAH4",
+    "tags": ["Python", "Programación"],
+    "type": "Guía",
+    "language": "Español"
+  },
+  {
+    "slug": "guia-programacion-python-john-zelle",
+    "title": "Guía de Programación Python - John Zelle",
+    "link": "https://media.licdn.com/dms/document/media/D561FAQH89svilhqXeg/feedshare-document-pdf-analyzed/0/1727015254931?e=1728518400&v=beta&t=wrKoA5XqB2p1i47LqSCLs5W44EtrXQ88eXWaeMH064I",
+    "tags": ["Python", "Programación"],
+    "type": "Guía",
+    "language": "Español"
+  },
+  {
+    "slug": "guia-tutorial-python-3",
+    "title": "Guía Tutorial de Python 3",
+    "link": "https://media.licdn.com/dms/document/media/D4D1FAQGHXUbXkWZZ8w/feedshare-document-pdf-analyzed/0/1727029052761?e=1728518400&v=beta&t=VomRIgtr44HXxNlrNXU6Fd7B-JRRFmgZpn_zkVtEpXo",
+    "tags": ["Python", "Tutorial"],
+    "type": "Guía",
+    "language": "Español"
+  },
+  {
+    "slug": "guia-programacion-python-chris-ford",
+    "title": "Guía de Programación Python - Chris Ford",
+    "link": "https://media.licdn.com/dms/document/media/D561FAQFWaz6Vfy5BbA/feedshare-document-pdf-analyzed/0/1726982715507?e=1728518400&v=beta&t=6NJdhoU5LNM8K0eoeyaemFPuEfu4jY_Ppc1SudZp_pI",
+    "tags": ["Python", "Programación"],
+    "type": "Guía",
+    "language": "Español"
+  },
+  {
+    "slug": "guia-pautas-modelado-financiero",
+    "title": "Guía de Pautas de Modelado Financiero",
+    "link": "https://media.licdn.com/dms/document/media/D4D1FAQG-pQEvlXVEyA/feedshare-document-pdf-analyzed/0/1727008538856?e=1728518400&v=beta&t=T80m5trtsR7Nl7aXi2kifQ3NgPX2LFq1KggWK8R4uKM",
+    "tags": ["Modelado Financiero", "Finanzas"],
+    "type": "Guía",
+    "language": "Español"
+  },
+  {
+    "slug": "libro-que-nos-motiva",
+    "title": "Libro: La Sorprendente Verdad sobre Qué Nos Motiva",
+    "link": "https://media.licdn.com/dms/document/media/D4E1FAQH--njn6UiuCg/feedshare-document-pdf-analyzed/0/1727006091860?e=1728518400&v=beta&t=CgErZ_O_FDUJq9S-JPuRWQCM5FPUR-h4APr0YGKwqdA",
+    "tags": ["Motivación", "Desarrollo Personal"],
+    "type": "Libro",
+    "language": "Español"
+  },
+  {
+    "slug": "guia-tutorial-javascript",
+    "title": "Guía Tutorial de JavaScript en Español",
+    "link": "https://www.eloquentjavascript.es/",
+    "tags": ["JavaScript", "Programación"],
+    "type": "Guía",
+    "language": "Español"
+  },
+  {
+    "slug": "libro-entrena-tu-cerebro",
+    "title": "Libro: Entrena tu Cerebro",
+    "link": "https://media.licdn.com/dms/document/media/D561FAQHu43NL_XmvGw/feedshare-document-pdf-analyzed/0/1726947221337?e=1728518400&v=beta&t=n7YTzn-6vJbvp2LnWZr2jEA0cMq4Yj7iD_Jt5zUPXrU",
+    "tags": ["Desarrollo Personal", "Neurociencia"],
+    "type": "Libro",
+    "language": "Español"
+  },
+  {
+    "slug": "libro-asertividad-trabajo",
+    "title": "Libro: Asertividad en el Trabajo",
+    "link": "https://media.licdn.com/dms/document/media/D4D1FAQH1PULDiVtUNw/feedshare-document-pdf-analyzed/0/1726937295353?e=1728518400&v=beta&t=XA8adYzTEMY-hYpuA-UMvCZZaRCZz_Cc6AKTkhKrkJg",
+    "tags": ["Asertividad", "Desarrollo Personal"],
+    "type": "Libro",
+    "language": "Español"
+  },
+  {
+    "slug": "guia-kanban-2024",
+    "title": "Guía del Método Kanban 2024",
+    "link": "https://media.licdn.com/dms/document/media/D4E1FAQHNnfW3qTJZBw/feedshare-document-pdf-analyzed/0/1726945856678?e=1728518400&v=beta&t=VsIjJH-DRSg27-rg1IeTSMIb0I5SY5ZtkovWTcsflFI",
+    "tags": ["Kanban", "Gestión de Proyectos"],
+    "type": "Guía",
+    "language": "Español"
+  },
+  {
+    "slug": "guia-scrum-reglas-juego",
+    "title": "Guía de Scrum: Las Reglas del Juego",
+    "link": "https://media.licdn.com/dms/document/media/D4E1FAQGWOEgx6DD4gw/feedshare-document-pdf-analyzed/0/1726943508205?e=1728518400&v=beta&t=KbiaW8S5g67cvKmP0GKvCm0sfoB2lhycuwZHuGTmDZI",
+    "tags": ["Scrum", "Gestión de Proyectos"],
+    "type": "Guía",
+    "language": "Español"
+  },
+  {
+    "slug": "guia-codificacion-python",
+    "title": "Guía de Codificación en Python",
+    "link": "https://media.licdn.com/dms/document/media/D4D1FAQGUnblC7tXIVA/feedshare-document-pdf-analyzed/0/1726908867458?e=1728518400&v=beta&t=q0vM81u7wHk42L7AUll1ZDp6Cz2rpfvjxlwUTWtEr9I",
+    "tags": ["Python", "Codificación"],
+    "type": "Guía",
+    "language": "Español"
+  },
+  {
+    "slug": "guia-algoritmos-toma-decisiones",
+    "title": "Guía de Algoritmos para la Toma de Decisiones",
+    "link": "https://media.licdn.com/dms/document/media/D561FAQFBKEHVXIKIrA/feedshare-document-pdf-analyzed/0/1726833648676?e=1728518400&v=beta&t=oGKXJo6dF_ndz-suMXbWlXg2lH7V4YhMNpuFnHkYuR4",
+    "tags": ["Algoritmos", "Toma de Decisiones"],
+    "type": "Guía",
+    "language": "Español"
+  },
+  {
+    "slug": "guia-procesamiento-lenguaje-natural-python",
+    "title": "Guía Práctica de Procesamiento de Lenguaje Natural usando Python",
+    "link": "https://media.licdn.com/dms/document/media/D561FAQHX1Kd2Jopo_Q/feedshare-document-pdf-analyzed/0/1726903778342?e=1728518400&v=beta&t=NH5niY-Z1QLN6AJD4U-VO12Ql4QP2JVmd3OzZCVNvq4",
+    "tags": ["Python", "Procesamiento de Lenguaje Natural"],
+    "type": "Guía",
+    "language": "Español"
+  },
+  {
+    "slug": "guia-estructura-datos-algoritmos",
+    "title": "Guía de Estructura de Datos y Algoritmos",
+    "link": "https://media.licdn.com/dms/document/media/D561FAQFoCQWvMEsEUg/feedshare-document-pdf-analyzed/0/1726905349236?e=1728518400&v=beta&t=yKgvLrJNFlidMvYDL6kv7NLjG8MHdbu6quWPRkx19Qs",
+    "tags": ["Estructura de Datos", "Algoritmos"],
+    "type": "Guía",
+    "language": "Español"
+  }
+  ]
+}
